@@ -30,7 +30,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: checkout
-        run: git clone -b sequoia-development https://github.com/dortania/OpenCore-Legacy-Patcher.git
+        run: git clone -b main https://github.com/dortania/OpenCore-Legacy-Patcher.git
 
 
 
